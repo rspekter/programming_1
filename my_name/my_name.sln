@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.2.1.8805
+Project("{BD8E9625-815A-4BDB-B228-5D4F9C2541A1}") = "my_name", "my_name.rbproj", "{608C6D11-2BC7-4E31-8042-A79AD24A432E}"
+EndProject
+Project("{BD8E9625-815A-4BDB-B228-5D4F9C2541A1}") = "craig_rules", "..\craig_rules\craig_rules.rbproj", "{606ECABA-651A-49B8-A5E6-AB4555990D9C}"
+EndProject
+Project("{BD8E9625-815A-4BDB-B228-5D4F9C2541A1}") = "favorite_club", "..\favorite_club\favorite_club.rbproj", "{B6760E0C-9251-43CD-B31C-7011F6C21BFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{608C6D11-2BC7-4E31-8042-A79AD24A432E}.Debug|x86.Build.0 = Debug|x86
+		{608C6D11-2BC7-4E31-8042-A79AD24A432E}.Debug|x86.ActiveCfg = Debug|x86
+		{608C6D11-2BC7-4E31-8042-A79AD24A432E}.Release|x86.Build.0 = Release|x86
+		{608C6D11-2BC7-4E31-8042-A79AD24A432E}.Release|x86.ActiveCfg = Release|x86
+		{606ECABA-651A-49B8-A5E6-AB4555990D9C}.Debug|x86.Build.0 = Debug|x86
+		{606ECABA-651A-49B8-A5E6-AB4555990D9C}.Debug|x86.ActiveCfg = Debug|x86
+		{606ECABA-651A-49B8-A5E6-AB4555990D9C}.Release|x86.Build.0 = Release|x86
+		{606ECABA-651A-49B8-A5E6-AB4555990D9C}.Release|x86.ActiveCfg = Release|x86
+		{B6760E0C-9251-43CD-B31C-7011F6C21BFD}.Debug|x86.Build.0 = Debug|x86
+		{B6760E0C-9251-43CD-B31C-7011F6C21BFD}.Debug|x86.ActiveCfg = Debug|x86
+		{B6760E0C-9251-43CD-B31C-7011F6C21BFD}.Release|x86.Build.0 = Release|x86
+		{B6760E0C-9251-43CD-B31C-7011F6C21BFD}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+EndGlobal

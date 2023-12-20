@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.2.1.8805
+Project("{BD8E9625-815A-4BDB-B228-5D4F9C2541A1}") = "fav_quote", "fav_quote.rbproj", "{8D59C627-FCF7-46C8-9896-53689247DC94}"
+EndProject
+Project("{BD8E9625-815A-4BDB-B228-5D4F9C2541A1}") = "about_me", "..\about_me\about_me.rbproj", "{53206160-5C56-488B-B2EF-DC793A23CA7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D59C627-FCF7-46C8-9896-53689247DC94}.Debug|x86.Build.0 = Debug|x86
+		{8D59C627-FCF7-46C8-9896-53689247DC94}.Debug|x86.ActiveCfg = Debug|x86
+		{8D59C627-FCF7-46C8-9896-53689247DC94}.Release|x86.Build.0 = Release|x86
+		{8D59C627-FCF7-46C8-9896-53689247DC94}.Release|x86.ActiveCfg = Release|x86
+		{53206160-5C56-488B-B2EF-DC793A23CA7D}.Debug|x86.Build.0 = Debug|x86
+		{53206160-5C56-488B-B2EF-DC793A23CA7D}.Debug|x86.ActiveCfg = Debug|x86
+		{53206160-5C56-488B-B2EF-DC793A23CA7D}.Release|x86.Build.0 = Release|x86
+		{53206160-5C56-488B-B2EF-DC793A23CA7D}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+EndGlobal

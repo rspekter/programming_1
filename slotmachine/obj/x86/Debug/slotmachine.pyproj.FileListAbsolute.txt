@@ -1,0 +1,14 @@
+C:\Users\ewing.j\Desktop\programs_1\slotmachine\bin\Debug\slotmachine.exe.config
+C:\Users\ewing.j\Desktop\programs_1\slotmachine\bin\Debug\slotmachine.exe
+C:\Users\ewing.j\Desktop\programs_1\slotmachine\bin\Debug\slotmachine.dll
+C:\Users\ewing.j\Desktop\programs_1\slotmachine\bin\Debug\IronPython.dll
+C:\Users\ewing.j\Desktop\programs_1\slotmachine\bin\Debug\IronPython.Modules.dll
+C:\Users\ewing.j\Desktop\programs_1\slotmachine\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\ewing.j\Desktop\programs_1\slotmachine\bin\Debug\Microsoft.Scripting.dll
+C:\Users\ewing.j\Desktop\programs_1\slotmachine\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\ewing.j\Desktop\programs_1\slotmachine\bin\Debug\IronPython.xml
+C:\Users\ewing.j\Desktop\programs_1\slotmachine\bin\Debug\IronPython.Modules.xml
+C:\Users\ewing.j\Desktop\programs_1\slotmachine\obj\x86\Debug\slotmachine.pyprojResolveAssemblyReference.cache
+C:\Users\ewing.j\Desktop\programs_1\slotmachine\obj\x86\Debug\slotmachine.MainForm.resources
+C:\Users\ewing.j\Desktop\programs_1\slotmachine\obj\x86\Debug\slotmachine.pyproj.GenerateResource.Cache
+C:\Users\ewing.j\Desktop\programs_1\slotmachine\obj\x86\Debug\slotmachine.exe

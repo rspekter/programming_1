@@ -1,0 +1,14 @@
+C:\Users\ewing.j\Desktop\programs_1\prog119\bin\Debug\prog119.exe.config
+C:\Users\ewing.j\Desktop\programs_1\prog119\bin\Debug\prog119.exe
+C:\Users\ewing.j\Desktop\programs_1\prog119\bin\Debug\prog119.dll
+C:\Users\ewing.j\Desktop\programs_1\prog119\bin\Debug\IronPython.dll
+C:\Users\ewing.j\Desktop\programs_1\prog119\bin\Debug\IronPython.Modules.dll
+C:\Users\ewing.j\Desktop\programs_1\prog119\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\ewing.j\Desktop\programs_1\prog119\bin\Debug\Microsoft.Scripting.dll
+C:\Users\ewing.j\Desktop\programs_1\prog119\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\ewing.j\Desktop\programs_1\prog119\bin\Debug\IronPython.xml
+C:\Users\ewing.j\Desktop\programs_1\prog119\bin\Debug\IronPython.Modules.xml
+C:\Users\ewing.j\Desktop\programs_1\prog119\obj\x86\Debug\prog119.pyprojResolveAssemblyReference.cache
+C:\Users\ewing.j\Desktop\programs_1\prog119\obj\x86\Debug\prog119.MainForm.resources
+C:\Users\ewing.j\Desktop\programs_1\prog119\obj\x86\Debug\prog119.pyproj.GenerateResource.Cache
+C:\Users\ewing.j\Desktop\programs_1\prog119\obj\x86\Debug\prog119.exe
